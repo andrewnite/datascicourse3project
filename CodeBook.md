@@ -3,12 +3,14 @@ Human Activity Recognition Using Smartphones - Codebook
 
 *subjectId (Integer)* : The Id of the test subject.<br />
 *activityId (Integer) and activityName (String)* : The activity which the subject had performed<br />
-    1	WALKING<br />
-    2	WALKING_UPSTAIRS<br />
-    3	WALKING_DOWNSTAIRS<br />
-    4	SITTING<br />
-    5	STANDING<br />
-    6	LAYING<br />
+<ul>
+    <li>1	WALKING</li>
+    <li>2	WALKING_UPSTAIRS</li>
+    <li>3	WALKING_DOWNSTAIRS</li>
+    <li>4	SITTING</li>
+    <li>5	STANDING</li>
+    <li>6	LAYING</li>
+</ul>
 *tBodyAcc-mean()-X* : The aggregated mean of the Mean reading of the X axis of the tBodyAcc variable<br />
 *tBodyAcc-mean()-Y* : The aggregated mean of the Mean reading of the Y axis of the tBodyAcc variable<br />
 *tBodyAcc-mean()-Z* : The aggregated mean of the Mean reading of the Z axis of the tBodyAcc variable<br />
