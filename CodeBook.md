@@ -1,7 +1,5 @@
 Human Activity Recognition Using Smartphones - Codebook
 =======
-Human Activity Recognition Using Smartphones - Codebook
-=======
 
 *subjectId (Integer)* : The Id of the test subject.<br />
 *activityId (Integer) and activityName (String)* : The activity which the subject had performed<br />
